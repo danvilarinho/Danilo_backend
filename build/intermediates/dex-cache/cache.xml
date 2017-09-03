@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/a32a0d16ca44a574994cdf3ba527002d80bf2ea3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_7530e323db427dff8d74addfe731293ce9b8e267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/eab35faa1dbb161cdb800885cf5c5dd324baaf71/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_4c9f289f57643cf11dd466b50cd2b6e8c0b73d99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/Downloads/danilo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="098de165e2d4fe8b83c5f28aeac1526f6a851de0">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cc58dcb1fef02798e421e1ecc609d69a6adb44d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/6e7c6ca3137d58aba3f471cbfa2581f5d3255d13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_7d554ed11ba6d0f14698023cd5b2c28d23c14bdc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/eab35faa1dbb161cdb800885cf5c5dd324baaf71/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_4c9f289f57643cf11dd466b50cd2b6e8c0b73d99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/a32a0d16ca44a574994cdf3ba527002d80bf2ea3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7530e323db427dff8d74addfe731293ce9b8e267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/6e7c6ca3137d58aba3f471cbfa2581f5d3255d13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d554ed11ba6d0f14698023cd5b2c28d23c14bdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/eab35faa1dbb161cdb800885cf5c5dd324baaf71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25dba999cbb51dc85465a9489aa760938c2f37f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/Downloads/danilo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_085e5b6d25ffe39d6416602ed0c41942632e46c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/android-studio/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/guava-18.0_e40471865835b7c50372e443685283dd5acf6433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/67e8df9fb694b8f28a3390b4e5cbacd1085baf4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_fc60b0f1cc32ffbe8852bdaefcc439848d08551a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/eab35faa1dbb161cdb800885cf5c5dd324baaf71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_25dba999cbb51dc85465a9489aa760938c2f37f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_7f5462719f0565ce39f49ce99d659e2fcc7c2639/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/6fb18fdf6cb13bf5a98955b614a4a9f0117d08c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_2ccd91e337c54ffad68c1fb321e68dc328b5a315.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/67e8df9fb694b8f28a3390b4e5cbacd1085baf4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc60b0f1cc32ffbe8852bdaefcc439848d08551a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/android-studio/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_e40471865835b7c50372e443685283dd5acf6433/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_7f5462719f0565ce39f49ce99d659e2fcc7c2639.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/6fb18fdf6cb13bf5a98955b614a4a9f0117d08c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ccd91e337c54ffad68c1fb321e68dc328b5a315/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/cec6e1279beed02886887ebcc3320a2fb7757662/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_8f33cc2d2c75c4210a4b5f406e075a7481bc02b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/52b88d5911477e16c2531b10a3b23b40213dfae3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_c0acfbd7f647712756aebe5d5e5e642545a143bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deivid/.android/build-cache/f382d1c6c7535005f7bbf48259783a9d07f293ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/pre-dexed/debug/classes_ce6b8504ecf05be92ebf0705688ff20ade2a048a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/f382d1c6c7535005f7bbf48259783a9d07f293ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce6b8504ecf05be92ebf0705688ff20ade2a048a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/52b88d5911477e16c2531b10a3b23b40213dfae3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0acfbd7f647712756aebe5d5e5e642545a143bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deivid/.android/build-cache/cec6e1279beed02886887ebcc3320a2fb7757662/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/home/deivid/Downloads/danilo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f33cc2d2c75c4210a4b5f406e075a7481bc02b8/classes.dex" />
+    </item>
+
+</items>
